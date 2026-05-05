@@ -85,7 +85,7 @@ function createPopup() {
             <span id="closePopup" style="cursor:pointer; font-size:20px;">✕</span>
           </div>
           <div style="padding: 20px; text-align: center;">
-            <img src="img/pop.webp"
+            <img src="img/popde.png"
               style="
                 width: 200px;
                 height: 200px;
@@ -96,10 +96,10 @@ function createPopup() {
               "
             />
             <div style="font-size:20px; font-weight:bold; margin-bottom:6px;">
-              Jetzt 50 % Rabatt sichern!
+              Jetzt 71 % Rabatt sichern!
             </div>
             <div style="font-size:14px; color:#555; margin-bottom:20px;">
-              Nur heute – erhalten Sie Ihr Exemplar mit 50 % Rabatt
+              Nur heute – erhalten Sie Ihr Exemplar mit 71 % Rabatt
             </div>
             <a href="${trackingUrl}" style="
               display: block;
